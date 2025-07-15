@@ -13,3 +13,11 @@ I think LLaVA is a viable option as a lower bound or baseline we can start with,
     - directly models temporal continuity
     - produces coherent, temporally aware captions
 - **limitations**: slightly more complex to fine-tune and deploy; requires well-annotated datasets for best performance
+
+### Proposed Pipeline (just a thought)
+1. **Scene Segmentation**: fine-tuned TransNetV2 or BaSSL/SCRL to output scene boundary timestamps/frame numbers
+2. **Frame Extraction**: FFMpeg (or other?) to output k-frame windows per scene
+3. **Feature Aggregation**: CMMCoT and Hierarchical Attention to output the scene's aggregated features
+4. **Caption Generation**: Video-LLaMA2 for scene-level captions
+5. **Temporal Coherence**: autoregressive/attention-based decoding to provide context-aware temporally aligned captions
+6. **Evaluation**: use the metrics/benchmarks listed in proposal to score our model
