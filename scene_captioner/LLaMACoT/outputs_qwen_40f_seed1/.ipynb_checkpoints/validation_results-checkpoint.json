@@ -1,0 +1,24 @@
+{
+  "CWxjNRIKjA0": {
+    "0": {
+      "ground_truth": "add some chopped white onions in a pan under medium heat",
+      "predicted": "Chop the vegetables and add them to the pot."
+    },
+    "1": {
+      "ground_truth": "add in red pepper and sweet potatoes",
+      "predicted": "Chop the vegetables and add them to the pot."
+    },
+    "2": {
+      "ground_truth": "add a spoon of water",
+      "predicted": "Add sweet potatoes and red bell peppers to the pot."
+    },
+    "3": {
+      "ground_truth": "cook with lid on",
+      "predicted": "Stir the boiling vegetables constantly with a spoon."
+    },
+    "4": {
+      "ground_truth": "season it with salt and black pepper",
+      "predicted": "Stir the ingredients in the bowl with the utensil."
+    }
+  }
+}

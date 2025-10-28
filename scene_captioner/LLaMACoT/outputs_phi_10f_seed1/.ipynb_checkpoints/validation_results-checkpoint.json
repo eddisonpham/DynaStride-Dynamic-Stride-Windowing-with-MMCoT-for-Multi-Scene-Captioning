@@ -1,0 +1,62 @@
+{
+  "CWxjNRIKjA0": {
+    "0": {
+      "ground_truth": "add some chopped white onions in a pan under medium heat",
+      "predicted": "Chop the carrots and onions, then add them to the pot on the stove."
+    },
+    "1": {
+      "ground_truth": "add in red pepper and sweet potatoes",
+      "predicted": "Chop the red bell peppers and saut\u00e9 them with onions in a pot."
+    },
+    "2": {
+      "ground_truth": "add a spoon of water",
+      "predicted": "Add the sweet potatoes, red bell peppers, and spices to the pot, then place it on the stove."
+    },
+    "3": {
+      "ground_truth": "cook with lid on",
+      "predicted": "Stir the pot of food continuously until it's well combined."
+    },
+    "4": {
+      "ground_truth": "season it with salt and black pepper",
+      "predicted": "Grind pepper over the food to season it."
+    }
+  },
+  "ffhliBglDhY": {
+    "0": {
+      "ground_truth": "add a chopped red onion sumac allspice and black pepper to a bowl and rub together",
+      "predicted": "Stir the meat in the bowl with your hand until well combined."
+    },
+    "1": {
+      "ground_truth": "cut pieces of pita breads open and cut into small triangles",
+      "predicted": "Cut the flatbread into smaller pieces using a knife on a cutting board."
+    },
+    "2": {
+      "ground_truth": "melt butter and olive oil in a hot pan",
+      "predicted": "Add butter and olive oil to the pan over medium heat."
+    },
+    "3": {
+      "ground_truth": "add half of the pita bread triangles to the pan and fry until golden brown",
+      "predicted": "Fry samosas in hot oil until golden brown."
+    },
+    "4": {
+      "ground_truth": "remove the bread from the pan and add the remaining pita bread to the pan",
+      "predicted": "Fry the triangular pieces in oil, stirring and flipping with a slotted spoon, then drain on a paper towel-lined plate."
+    },
+    "5": {
+      "ground_truth": "add lemon juice garlic and salt to a small bowl and mix",
+      "predicted": "Pour the liquid into the bowl using the cup and hand."
+    },
+    "6": {
+      "ground_truth": "pour olive oil and balsamic vinegar to a small bowl and mix",
+      "predicted": "Pour oil into the ramekin using the bottle."
+    },
+    "7": {
+      "ground_truth": "add the pita bread lettuce cucumber tomatoes radishes lemon juice olive oil and balsamic vinegar to a bowl",
+      "predicted": "Drizzle the dressing evenly over the salad in the bowl."
+    },
+    "8": {
+      "ground_truth": "toss the contents of the bowl together",
+      "predicted": "Stir the salad in the bowl with a spoon using your hands."
+    }
+  }
+}

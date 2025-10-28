@@ -1,0 +1,10 @@
+num_samples: avg = 1615.0000, std = 0.0000
+PBERT: avg = 0.2243, std = 0.0025
+RBERT: avg = 0.2173, std = 0.0027
+FBERT: avg = 0.2198, std = 0.0024
+SBERTSim: avg = 0.5820, std = 0.0024
+TemporalCoherence_NSP_true: avg = 0.9994, std = 0.0001
+TemporalCoherence_NSP_shuffled: avg = 0.9987, std = 0.0006
+TemporalCoherence_NSP_delta: avg = 0.0007, std = 0.0005
+TemporalAlignment_DTW: avg = 3.1090, std = 0.0191
+TemporalContradictionRate_NLI: avg = 0.0731, std = 0.0067

@@ -1,0 +1,24 @@
+{
+  "CWxjNRIKjA0": {
+    "0": {
+      "ground_truth": "add some chopped white onions in a pan under medium heat",
+      "predicted": "Add carrots and onions to pot and saut\u00e9."
+    },
+    "1": {
+      "ground_truth": "add in red pepper and sweet potatoes",
+      "predicted": "Add chopped red bell peppers to saut\u00e9ed onions in the pot."
+    },
+    "2": {
+      "ground_truth": "add a spoon of water",
+      "predicted": "Combine sweet potatoes, red bell peppers, and spices in the pot."
+    },
+    "3": {
+      "ground_truth": "cook with lid on",
+      "predicted": "Stir the pot constantly with a spoon."
+    },
+    "4": {
+      "ground_truth": "season it with salt and black pepper",
+      "predicted": "Grind pepper over food."
+    }
+  }
+}

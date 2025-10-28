@@ -1,0 +1,13 @@
+num_samples: avg = 1615.0000, std = 0.0000
+BLEU4: avg = 4.4848, std = 0.0268
+METEOR: avg = 24.8239, std = 0.0994
+CIDEr: avg = 0.5814, std = 0.0016
+PBERT: avg = 0.2438, std = 0.0010
+RBERT: avg = 0.2556, std = 0.0002
+FBERT: avg = 0.2492, std = 0.0005
+SBERTSim: avg = 0.6142, std = 0.0006
+TemporalCoherence_NSP_true: avg = 0.9999, std = 0.0001
+TemporalCoherence_NSP_shuffled: avg = 0.9998, std = 0.0003
+TemporalCoherence_NSP_delta: avg = 0.0001, std = 0.0003
+TemporalAlignment_DTW: avg = 2.9559, std = 0.0042
+TemporalContradictionRate_NLI: avg = 0.0404, std = 0.0018

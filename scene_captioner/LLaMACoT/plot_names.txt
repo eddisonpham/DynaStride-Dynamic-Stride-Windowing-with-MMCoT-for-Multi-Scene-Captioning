@@ -1,0 +1,12 @@
+CIDEr
+METEOR
+BLEU4
+TemporalContradictionRate_NLI
+TemporalAlignment_DTW
+TemporalCoherence_NSP_delta
+TemporalCoherence_NSP_shuffled
+TemporalCoherence_NSP_true
+SBERTSim
+FBERT
+RBERT
+PBERT

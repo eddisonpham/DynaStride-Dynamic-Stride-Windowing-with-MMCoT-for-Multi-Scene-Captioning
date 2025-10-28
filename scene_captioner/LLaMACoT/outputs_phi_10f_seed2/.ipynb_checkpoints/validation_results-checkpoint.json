@@ -1,0 +1,200 @@
+{
+  "CWxjNRIKjA0": {
+    "0": {
+      "ground_truth": "add some chopped white onions in a pan under medium heat",
+      "predicted": "Chop the carrots and onions finely, then add them to the pot on the stove."
+    },
+    "1": {
+      "ground_truth": "add in red pepper and sweet potatoes",
+      "predicted": "Saute onions, then add chopped red bell peppers to the pot."
+    },
+    "2": {
+      "ground_truth": "add a spoon of water",
+      "predicted": "Add sweet potatoes, red bell peppers, and spices to the pot, then set it on the stove to simmer."
+    },
+    "3": {
+      "ground_truth": "cook with lid on",
+      "predicted": "Stir the food continuously to ensure even cooking."
+    },
+    "4": {
+      "ground_truth": "season it with salt and black pepper",
+      "predicted": "Grind pepper over the food for taste."
+    }
+  },
+  "ffhliBglDhY": {
+    "0": {
+      "ground_truth": "add a chopped red onion sumac allspice and black pepper to a bowl and rub together",
+      "predicted": "Mix the sliced red onion with salt, pepper, and herbs in a bowl."
+    },
+    "1": {
+      "ground_truth": "cut pieces of pita breads open and cut into small triangles",
+      "predicted": "Cut the flatbread into smaller pieces using a knife on the cutting board with your hands."
+    },
+    "2": {
+      "ground_truth": "melt butter and olive oil in a hot pan",
+      "predicted": "Heat the pan with butter and olive oil over medium heat."
+    },
+    "3": {
+      "ground_truth": "add half of the pita bread triangles to the pan and fry until golden brown",
+      "predicted": "Fry samosas in hot oil in a pan until golden brown."
+    },
+    "4": {
+      "ground_truth": "remove the bread from the pan and add the remaining pita bread to the pan",
+      "predicted": "Stir and flip the triangular food pieces in the pan, then transfer them to a paper towel-lined plate to drain excess oil."
+    },
+    "5": {
+      "ground_truth": "add lemon juice garlic and salt to a small bowl and mix",
+      "predicted": "Pour the liquid into the bowl with your hand."
+    },
+    "6": {
+      "ground_truth": "pour olive oil and balsamic vinegar to a small bowl and mix",
+      "predicted": "Pour oil from the bottle into the ramekin."
+    },
+    "7": {
+      "ground_truth": "add the pita bread lettuce cucumber tomatoes radishes lemon juice olive oil and balsamic vinegar to a bowl",
+      "predicted": "Toss the salad with dressing to evenly coat the lettuce and croutons."
+    },
+    "8": {
+      "ground_truth": "toss the contents of the bowl together",
+      "predicted": "Stir the salad in the bowl with the spoon using your hands."
+    }
+  },
+  "PHpk4ITk-SE": {
+    "0": {
+      "ground_truth": "take 6 pieces of thinly sliced sirloin",
+      "predicted": "Examine the raw meat for freshness and quality."
+    },
+    "1": {
+      "ground_truth": "put the sliced sirloins in to a zip lock cover",
+      "predicted": "Place the meat in a plastic bag and coat it thoroughly with the marinade mixture including lime slices for seasoning."
+    },
+    "2": {
+      "ground_truth": "also put some citrus fruit shells like orange and lemon skin into the bag",
+      "predicted": "Place the knife at the top of the lemon and cut downwards to peel it into a plastic bag with other ingredients."
+    },
+    "3": {
+      "ground_truth": "pour the marinate into the bag",
+      "predicted": "Blend the fruits and vegetables with the measured liquid until smooth."
+    },
+    "4": {
+      "ground_truth": "remove the air and lock the cover",
+      "predicted": "Hold the bag with both hands, place it on the cutting board, and cut off the excess plastic at the top."
+    },
+    "5": {
+      "ground_truth": "massage the mixture properly to marinate the meat",
+      "predicted": "Place meat and vegetables in the plastic bag, seal, then chop on the cutting board."
+    },
+    "6": {
+      "ground_truth": "open the cover and reseal it and put it into the fridge",
+      "predicted": "Seal the plastic bag with the food items using the measuring cup to ensure no spills."
+    },
+    "7": {
+      "ground_truth": "spread oil on a pan and heat till smoky spread the marinated meat and cook both the sides flipping it",
+      "predicted": "Boil water in the cast iron skillet on the stove, then use tongs to flip the steak."
+    },
+    "8": {
+      "ground_truth": "remove the cooked meat and set it aside and chop it into small pieces",
+      "predicted": "Cut the meat into thin slices using the knife while holding it steady with the tongs on the cutting board."
+    },
+    "9": {
+      "ground_truth": "wrap it along with other vegetables to make tacos",
+      "predicted": "Stir sour cream into your taco filling for a creamy twist."
+    }
+  },
+  "HF49t8uVJOE": {
+    "0": {
+      "ground_truth": "crack a egg into a pot and whisk",
+      "predicted": "Gather your pots, utensils, and ingredients; start cooking!"
+    },
+    "1": {
+      "ground_truth": "add flour to the pot and stir",
+      "predicted": "Continue stirring the pot gently until it reaches a boil."
+    },
+    "2": {
+      "ground_truth": "add ice cold water to the pot and stir",
+      "predicted": "<ANSWER>Pour the liquid carefully from one pot to the other.\n\n2. The chef is adding spices to a simmering sauce. | Chef, spices, saucepan, simmering sau"
+    },
+    "3": {
+      "ground_truth": "add the shrimp to the pot",
+      "predicted": "Mix the ingredients thoroughly in the bowl using the spoon."
+    },
+    "4": {
+      "ground_truth": "place the shrimp into a pot of hot oil",
+      "predicted": "Transfer the ingredient using the utensil carefully."
+    },
+    "5": {
+      "ground_truth": "remove the shrimp from the pot and place on a paper towel",
+      "predicted": "Place the lemon into the pot of boiling water to infuse flavor."
+    }
+  },
+  "5VnaolWGIy4": {
+    "0": {
+      "ground_truth": "boil some pasta",
+      "predicted": "Boil water in a pot, add pasta and cook until tender."
+    },
+    "1": {
+      "ground_truth": "grill some bacon",
+      "predicted": "Cook bacon until crisp, then transfer to a plate."
+    },
+    "2": {
+      "ground_truth": "mix the grilled bacon with the pasta in a bowl",
+      "predicted": "Add the bacon to the boiling pasta and stir with a spatula."
+    },
+    "3": {
+      "ground_truth": "add cherry tomatoes olives and caesar dressing and mix them well",
+      "predicted": "Stir the diced tomatoes into the pasta with a red spatula until well combined."
+    },
+    "4": {
+      "ground_truth": "add romaine lettuce black pepper and shredded parmesan cheese",
+      "predicted": "Stir the pasta salad gently with the spoon and toss in the vegetables."
+    }
+  },
+  "wQc0xmPurDc": {
+    "0": {
+      "ground_truth": "whisk the mayonnaise and lemon juice together",
+      "predicted": "Stir the flour in the bowl using a spoon until smooth."
+    },
+    "1": {
+      "ground_truth": "mix in salt and pepper",
+      "predicted": "Whisk the flour and other ingredients in a bowl until smooth."
+    },
+    "2": {
+      "ground_truth": "add walnuts apples and grapes and mix",
+      "predicted": "Combine flour, nuts, and diced apples in a glass bowl using a spoon."
+    },
+    "3": {
+      "ground_truth": "add lettuce and the salad to a bowl",
+      "predicted": "Pour salad dressing over the lettuce leaves on your plate."
+    }
+  },
+  "tKsGWxiWWCg": {
+    "0": {
+      "ground_truth": "chop the pork into small pieces",
+      "predicted": "Chop the meat with a cleaver on a wooden board."
+    },
+    "1": {
+      "ground_truth": "chop the scallions into small pieces",
+      "predicted": "Chop the meat with the cleaver before transferring it into the bowl."
+    },
+    "2": {
+      "ground_truth": "pour peanut oil into the wok",
+      "predicted": "Pour ingredients into the wok and begin cooking."
+    },
+    "3": {
+      "ground_truth": "add rice and salt to the wok",
+      "predicted": "Open the pot lid to check on the rice's readiness."
+    },
+    "4": {
+      "ground_truth": "add the eggs to the rice and stir",
+      "predicted": "Crack the egg into the wok, then stir the rice and egg together gently with a spatula."
+    },
+    "5": {
+      "ground_truth": "pour soy sauce on the rice",
+      "predicted": "Scoop the cooked food with a spatula and transfer it to a white bowl."
+    },
+    "6": {
+      "ground_truth": "add pork and scallions to the wok",
+      "predicted": "Use a spatula to move the chopped ingredients into the pan, then stir the food in the wok with a spoon."
+    }
+  }
+}

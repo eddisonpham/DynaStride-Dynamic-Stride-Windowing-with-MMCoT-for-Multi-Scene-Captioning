@@ -1,0 +1,12 @@
+hf/
+.ollama/
+*_env/
+met_env/
+cot_env/
+*.mp4
+*.pt
+*.bin
+*.so
+*.ckpt
+*.pkl
+*.npy

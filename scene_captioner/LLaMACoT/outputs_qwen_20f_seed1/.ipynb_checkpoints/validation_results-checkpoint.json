@@ -1,0 +1,104 @@
+{
+  "CWxjNRIKjA0": {
+    "0": {
+      "ground_truth": "add some chopped white onions in a pan under medium heat",
+      "predicted": "Shake the pot to mix the ingredients thoroughly."
+    },
+    "1": {
+      "ground_truth": "add in red pepper and sweet potatoes",
+      "predicted": "Chop the vegetables and add them to the pot."
+    },
+    "2": {
+      "ground_truth": "add a spoon of water",
+      "predicted": "Add sweet potatoes, red bell peppers, and spices to the pot."
+    },
+    "3": {
+      "ground_truth": "cook with lid on",
+      "predicted": "Stir the boiling vegetables constantly with a spoon."
+    },
+    "4": {
+      "ground_truth": "season it with salt and black pepper",
+      "predicted": "Stir the mixture continuously with a wooden spoon."
+    }
+  },
+  "ffhliBglDhY": {
+    "0": {
+      "ground_truth": "add a chopped red onion sumac allspice and black pepper to a bowl and rub together",
+      "predicted": "Add dark liquid, white powder, and brown spice to the bowl with sliced red onions, then mix thoroughly with your hands.  \n<ANSWER>Add dark liquid, white powder, and brown spice to the bowl with sliced red onions, then mix thoroughly"
+    },
+    "1": {
+      "ground_truth": "cut pieces of pita breads open and cut into small triangles",
+      "predicted": "Cut the flatbread into even pieces using a sharp knife on a cutting board."
+    },
+    "2": {
+      "ground_truth": "melt butter and olive oil in a hot pan",
+      "predicted": "Heat the pan over medium heat and add the butter and olive oil."
+    },
+    "3": {
+      "ground_truth": "add half of the pita bread triangles to the pan and fry until golden brown",
+      "predicted": "Heat oil in a pan and add sliced potatoes, then stir-fry until golden brown."
+    },
+    "4": {
+      "ground_truth": "remove the bread from the pan and add the remaining pita bread to the pan",
+      "predicted": "Stir the pita bread pieces in the pan with a wooden spoon until golden."
+    },
+    "5": {
+      "ground_truth": "add lemon juice garlic and salt to a small bowl and mix",
+      "predicted": "Pour the liquid into the bowl using a spoon."
+    },
+    "6": {
+      "ground_truth": "pour olive oil and balsamic vinegar to a small bowl and mix",
+      "predicted": "Add white liquid, then red sauce, followed by soy sauce and a pinch of black pepper to the egg yolk.  \n<ANSWER>Add white liquid, then red sauce, followed by soy sauce and a pinch of black pepper to the egg y"
+    },
+    "7": {
+      "ground_truth": "add the pita bread lettuce cucumber tomatoes radishes lemon juice olive oil and balsamic vinegar to a bowl",
+      "predicted": "Add croutons and lettuce to a bowl."
+    },
+    "8": {
+      "ground_truth": "toss the contents of the bowl together",
+      "predicted": "Stir the salad gently with a spoon."
+    }
+  },
+  "PHpk4ITk-SE": {
+    "0": {
+      "ground_truth": "take 6 pieces of thinly sliced sirloin",
+      "predicted": "Place the raw meat gently on the tray using both hands."
+    },
+    "1": {
+      "ground_truth": "put the sliced sirloins in to a zip lock cover",
+      "predicted": "Place the raw meat in a plastic bag and submerge it completely in the marinade with onions and herbs.  \n<ANSWER>Place the raw meat in a plastic bag and submerge it completely in the marinade with onions and herbs.</ANS"
+    },
+    "2": {
+      "ground_truth": "also put some citrus fruit shells like orange and lemon skin into the bag",
+      "predicted": "Peel the orange using a knife."
+    },
+    "3": {
+      "ground_truth": "pour the marinate into the bag",
+      "predicted": "Add sliced vegetables and fruits to the blender bag."
+    },
+    "4": {
+      "ground_truth": "remove the air and lock the cover",
+      "predicted": "Seal the plastic bag with the chopped vegetables."
+    },
+    "5": {
+      "ground_truth": "massage the mixture properly to marinate the meat",
+      "predicted": "Add chopped vegetables to the plastic bag and seal it tightly."
+    },
+    "6": {
+      "ground_truth": "open the cover and reseal it and put it into the fridge",
+      "predicted": "Seal the food in the plastic bag tightly."
+    },
+    "7": {
+      "ground_truth": "spread oil on a pan and heat till smoky spread the marinated meat and cook both the sides flipping it",
+      "predicted": "Heat the cast iron skillet over medium-high heat until it steams."
+    },
+    "8": {
+      "ground_truth": "remove the cooked meat and set it aside and chop it into small pieces",
+      "predicted": "Cut the meat with tongs and a knife on the cutting board."
+    },
+    "9": {
+      "ground_truth": "wrap it along with other vegetables to make tacos",
+      "predicted": "Add sour cream to the tacos."
+    }
+  }
+}

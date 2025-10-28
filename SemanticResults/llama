@@ -1,0 +1,12 @@
+{
+  "num_samples": 1615,
+  "PBERT": 0.2078467607498169,
+  "RBERT": 0.2257194221019745,
+  "FBERT": 0.2160264551639557,
+  "SBERTSim": 0.5779905915260315,
+  "TemporalCoherence_NSP_true": 0.998597628241438,
+  "TemporalCoherence_NSP_shuffled": 0.9999925881942396,
+  "TemporalCoherence_NSP_delta": -0.0013949599528015888,
+  "TemporalAlignment_DTW": 3.1433777956964235,
+  "TemporalContradictionRate_NLI": 0.06192170818505338
+}
