@@ -5,7 +5,13 @@ import time
 import pathlib
 import argparse
 from typing import Dict
-
+import sys
+from dotenv import load_dotenv
+ROOT_DIR=os.path.abspath(os.path.join(os.getcwd(), "..", ".."))
+print(ROOT_DIR)
+sys.path.insert(0, ROOT_DIR)
+load_dotenv(dotenv_path = os.path.join(ROOT_DIR, "src/experiments/.env") )
+gptKey = os.getenv("OPEN_AI_API_KEY")
 from src.utils.loader_utils import (
     get_data_paths,
     read_sample_file,
@@ -48,7 +54,7 @@ def run_experiment(
         stride = 5 if model.lower() == "gpt" else 8
     
     if model.lower() == "gpt":
-        if not os.environ.get("OPENAI_API_KEY"):
+        if gptKey is None:
             raise RuntimeError("OPENAI_API_KEY environment variable is not set")
     
     paths = get_data_paths()
@@ -143,14 +149,14 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        required=True,
         choices=["gpt", "videollama3"],
+        default="gpt",
         help="Model to use: 'gpt' or 'videollama3'"
     )
     parser.add_argument(
         "--max-frames",
         type=int,
-        required=True,
+        default=10,
         choices=[5, 10, 20, 40],
         help="Maximum frames to sample per scene (every K-th frame sparsity)"
     )
@@ -160,26 +166,15 @@ def main():
         default=1,
         help="Round/seed number (default: 1)"
     )
-    parser.add_argument(
-        "--stride",
-        type=int,
-        default=None,
-        help="Frame sampling stride (default: 5 for GPT, 8 for VideoLLaMA3)"
-    )
-    parser.add_argument(
-        "--workspace",
-        type=str,
-        default= os.path.abspath(os.path.join(os.getcwd(), "..", "..")),
-        help="Workspace root path (default: root directory of the project)"
-    )
+    gptStride = 5
+    llamaStride = 8
     
     args = parser.parse_args()
     run_experiment(
         model=args.model,
         max_frames=args.max_frames,
         round_num=args.round,
-        stride=args.stride,
-        workspace=args.workspace,
+        stride= gptStride if args.model == "gpt" else llamaStride,
     )
 
 

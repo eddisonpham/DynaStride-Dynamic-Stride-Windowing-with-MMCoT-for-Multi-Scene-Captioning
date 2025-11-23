@@ -8,10 +8,14 @@ import httpx
 from openai import OpenAI
 from openai._exceptions import OpenAIError
 from httpx import HTTPStatusError, TimeoutException
+from dotenv import load_dotenv
 
 import sys
+ROOT_DIR=os.path.abspath(os.path.join(os.getcwd(), "..", ".."))
+print(ROOT_DIR)
+sys.path.insert(0, ROOT_DIR)
+load_dotenv(dotenv_path = os.path.join(ROOT_DIR, "src/experiments/.env") )
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 
 from src.utils.image_processing import make_horizontal_strip_data_url
 
@@ -30,6 +34,7 @@ OPENAI_REQ_DELAY = 0.7
 MAX_RETRIES = 5
 BACKOFF_BASE = 0.8
 BACKOFF_MAX = 15.0
+GPT_KEY = os.getenv("OPEN_AI_API_KEY")
 
 RETRIABLE_STATUS = {408, 413, 429, 500, 502, 503, 504}
 
@@ -41,6 +46,7 @@ def get_openai_client():
     global _client
     if _client is None:
         _client = OpenAI(
+            api_key=GPT_KEY,
             max_retries=0,
             timeout=httpx.Timeout(connect=8.0, read=20.0, write=20.0, pool=8.0)
         )
