@@ -81,6 +81,10 @@ def run_experiment(
         print(f"[video] {video_id} scanning scenes in {video_root}", flush=True)
         
         scene_folders = find_scene_folders(video_root)
+        scene_folders = sorted(
+            scene_folders,
+            key=lambda p: int(os.path.basename(p).split("_")[-2])
+        )
         print(f"[video] {video_id} found {len(scene_folders)} scene folders", flush=True)
         if not scene_folders:
             continue
