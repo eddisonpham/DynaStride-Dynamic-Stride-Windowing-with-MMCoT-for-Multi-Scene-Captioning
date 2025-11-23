@@ -1,0 +1,950 @@
+{
+  "CWxjNRIKjA0": {
+    "0": {
+      "ground_truth": "add some chopped white onions in a pan under medium heat",
+      "predicted": "Add chopped onions to a heated pot and sauté until translucent."
+    },
+    "1": {
+      "ground_truth": "add in red pepper and sweet potatoes",
+      "predicted": "Add diced sweet potatoes and red peppers to the pot with sautéed onions."
+    },
+    "2": {
+      "ground_truth": "add a spoon of water",
+      "predicted": "Add diced vegetables to a pot, sprinkle with seasoning, and stir well."
+    },
+    "3": {
+      "ground_truth": "cook with lid on",
+      "predicted": "Cover the pot with a lid and let the contents simmer."
+    },
+    "4": {
+      "ground_truth": "season it with salt and black pepper",
+      "predicted": "Drizzle sauce over the cooked dish before serving."
+    }
+  },
+  "ffhliBglDhY": {
+    "0": {
+      "ground_truth": "add a chopped red onion sumac allspice and black pepper to a bowl and rub together",
+      "predicted": "Place the sliced red onion into a bowl and use your hands to thoroughly mix and separate the layers."
+    },
+    "1": {
+      "ground_truth": "cut pieces of pita breads open and cut into small triangles",
+      "predicted": "Slice the flatbread into triangular pieces using a sharp knife."
+    },
+    "2": {
+      "ground_truth": "melt butter and olive oil in a hot pan",
+      "predicted": "Add 2 tablespoons each of butter and olive oil to a pan over medium heat, then stir until the butter melts."
+    },
+    "3": {
+      "ground_truth": "add half of the pita bread triangles to the pan and fry until golden brown",
+      "predicted": "Add sliced ingredients to the pan with melted butter and stir until evenly coated."
+    },
+    "4": {
+      "ground_truth": "remove the bread from the pan and add the remaining pita bread to the pan",
+      "predicted": "Remove the cooked pieces from the pan, add fresh pieces, and stir to coat them evenly in the remaining oil."
+    },
+    "5": {
+      "ground_truth": "add lemon juice garlic and salt to a small bowl and mix",
+      "predicted": "Pour the liquid from the small bowl into the larger bowl, then add a spoonful of white powder and stir well."
+    },
+    "6": {
+      "ground_truth": "pour olive oil and balsamic vinegar to a small bowl and mix",
+      "predicted": "Pour milk into a cup, add an egg yolk, then mix in soy sauce and whisk thoroughly."
+    },
+    "7": {
+      "ground_truth": "add the pita bread lettuce cucumber tomatoes radishes lemon juice olive oil and balsamic vinegar to a bowl",
+      "predicted": "Toss the fried eggplant, fresh greens, sliced onions, and tomatoes in a bowl, then drizzle with dressing and season with salt."
+    },
+    "8": {
+      "ground_truth": "toss the contents of the bowl together",
+      "predicted": "Toss the salad thoroughly using two spoons to ensure all ingredients are well mixed."
+    }
+  },
+  "PHpk4ITk-SE": {
+    "0": {
+      "ground_truth": "take 6 pieces of thinly sliced sirloin",
+      "predicted": "Carefully separate each slice of meat from the stack and lay them flat on a surface."
+    },
+    "1": {
+      "ground_truth": "put the sliced sirloins in to a zip lock cover",
+      "predicted": "Place the meat into a resealable plastic bag."
+    },
+    "2": {
+      "ground_truth": "also put some citrus fruit shells like orange and lemon skin into the bag",
+      "predicted": "Place the peeled orange segments into the plastic bag with the other ingredients."
+    },
+    "3": {
+      "ground_truth": "pour the marinate into the bag",
+      "predicted": "Pour the marinade over the vegetables in the plastic bag."
+    },
+    "4": {
+      "ground_truth": "remove the air and lock the cover",
+      "predicted": "Seal the plastic bag tightly after placing the ingredients inside."
+    },
+    "5": {
+      "ground_truth": "massage the mixture properly to marinate the meat",
+      "predicted": "Seal the bag with the meat and vegetables, then shake it to mix the ingredients thoroughly."
+    },
+    "6": {
+      "ground_truth": "open the cover and reseal it and put it into the fridge",
+      "predicted": "Seal the plastic bag tightly after placing the ingredients inside."
+    },
+    "7": {
+      "ground_truth": "spread oil on a pan and heat till smoky spread the marinated meat and cook both the sides flipping it",
+      "predicted": "Flip the steak in the hot pan to cook the other side until browned."
+    },
+    "8": {
+      "ground_truth": "remove the cooked meat and set it aside and chop it into small pieces",
+      "predicted": "Shred the cooked meat using two forks until it is fully pulled apart."
+    },
+    "9": {
+      "ground_truth": "wrap it along with other vegetables to make tacos",
+      "predicted": "Fill the taco shells with the prepared mixture and add a dollop of sour cream on top."
+    }
+  },
+  "HF49t8uVJOE": {
+    "0": {
+      "ground_truth": "crack a egg into a pot and whisk",
+      "predicted": "Crack the eggs into the pot, then stir gently to combine."
+    },
+    "1": {
+      "ground_truth": "add flour to the pot and stir",
+      "predicted": "Pour the contents from the smaller pot into the larger pot on the stove."
+    },
+    "2": {
+      "ground_truth": "add ice cold water to the pot and stir",
+      "predicted": "Pour the contents of the small pot into the larger pot on the stove."
+    },
+    "3": {
+      "ground_truth": "add the shrimp to the pot",
+      "predicted": "Pour the measured liquid into the pot on the stove."
+    },
+    "4": {
+      "ground_truth": "place the shrimp into a pot of hot oil",
+      "predicted": "Pour the batter into the top section of the double boiler, then cover and let it steam until cooked through."
+    },
+    "5": {
+      "ground_truth": "remove the shrimp from the pot and place on a paper towel",
+      "predicted": "Place the food pieces from the plate into the steamer basket over the pot."
+    }
+  },
+  "5VnaolWGIy4": {
+    "0": {
+      "ground_truth": "boil some pasta",
+      "predicted": "Boil the pasta until al dente, then drain and set aside."
+    },
+    "1": {
+      "ground_truth": "grill some bacon",
+      "predicted": "Place slices of ham onto a preheated grill or pan."
+    },
+    "2": {
+      "ground_truth": "mix the grilled bacon with the pasta in a bowl",
+      "predicted": "Add chopped meat to the bowl of pasta and mix well."
+    },
+    "3": {
+      "ground_truth": "add cherry tomatoes olives and caesar dressing and mix them well",
+      "predicted": "Mix the cooked pasta with chopped tomatoes, olives, and other ingredients thoroughly in a large bowl."
+    },
+    "4": {
+      "ground_truth": "add romaine lettuce black pepper and shredded parmesan cheese",
+      "predicted": "Toss the pasta salad with chopped greens and grated cheese until well combined."
+    }
+  },
+  "wQc0xmPurDc": {
+    "0": {
+      "ground_truth": "whisk the mayonnaise and lemon juice together",
+      "predicted": "Stir the contents of the bowl thoroughly using a spoon."
+    },
+    "1": {
+      "ground_truth": "mix in salt and pepper",
+      "predicted": "Whisk the dry ingredients together in a bowl until well combined."
+    },
+    "2": {
+      "ground_truth": "add walnuts apples and grapes and mix",
+      "predicted": "Combine yogurt, granola, chopped apples, and grapes in a bowl, then mix thoroughly."
+    },
+    "3": {
+      "ground_truth": "add lettuce and the salad to a bowl",
+      "predicted": "Place the romaine lettuce leaves neatly on the plate, ensuring they are evenly spaced and aligned."
+    }
+  },
+  "tKsGWxiWWCg": {
+    "0": {
+      "ground_truth": "chop the pork into small pieces",
+      "predicted": "Chop the meat into small pieces using a cleaver on a cutting board."
+    },
+    "1": {
+      "ground_truth": "chop the scallions into small pieces",
+      "predicted": "Chop the ingredients and transfer them into the bowl."
+    },
+    "2": {
+      "ground_truth": "pour peanut oil into the wok",
+      "predicted": "Crack an egg into the heated pan."
+    },
+    "3": {
+      "ground_truth": "add rice and salt to the wok",
+      "predicted": "Pour the rice into the wok and begin stirring gently."
+    },
+    "4": {
+      "ground_truth": "add the eggs to the rice and stir",
+      "predicted": "Crack an egg into the pan with rice and begin to stir them together."
+    },
+    "5": {
+      "ground_truth": "pour soy sauce on the rice",
+      "predicted": "Stir the rice continuously in the pan to ensure even cooking and prevent sticking."
+    },
+    "6": {
+      "ground_truth": "add pork and scallions to the wok",
+      "predicted": "Add the chopped ingredients from the cutting board into the wok and stir them together."
+    }
+  },
+  "T_fPNAK5Ecg": {
+    "0": {
+      "ground_truth": "add butter and onions to the pan",
+      "predicted": "Transfer the chopped onions from the bowl into the pot."
+    },
+    "1": {
+      "ground_truth": "add salt pepper and flour to the onions",
+      "predicted": "Sprinkle salt over the cooking onions in the pan."
+    },
+    "2": {
+      "ground_truth": "add milk to the onions and stir",
+      "predicted": "Pour the oat milk into the saucepan while stirring the mixture continuously."
+    },
+    "3": {
+      "ground_truth": "mash the potatoes with a masher",
+      "predicted": "Remove the lid and vigorously stir the contents of the pot until well mixed."
+    },
+    "4": {
+      "ground_truth": "add butter and milk to the mashed potatoes and mix",
+      "predicted": "Add butter and cheese to the pot of rice, then stir thoroughly until well combined."
+    },
+    "5": {
+      "ground_truth": "place the sausages mashed potatoes and onion sauce on a serving plate",
+      "predicted": "Pour the creamy sauce over the sausages and mashed potatoes on the plate."
+    }
+  },
+  "6uHoTJSLoL8": {
+    "0": {
+      "ground_truth": "heat chili oil in pan with ginger garlic chili paste and schizuan paste",
+      "predicted": "Heat chili oil in a pan, then add ginger, garlic, chili paste, and soy Sichuan chili paste, stirring well."
+    },
+    "1": {
+      "ground_truth": "add mince pork and stir",
+      "predicted": "Add minced pork to the pan and stir it into the mixture."
+    },
+    "2": {
+      "ground_truth": "add rice wine to pan",
+      "predicted": "Add rice wine to the pan and stir the mixture thoroughly."
+    },
+    "3": {
+      "ground_truth": "add soy sauce to pan",
+      "predicted": "Add soy sauce to the pan and stir the mixture thoroughly."
+    },
+    "4": {
+      "ground_truth": "add tofu cubes and mix well",
+      "predicted": "Add tofu to the pan and stir until evenly coated and heated through."
+    },
+    "5": {
+      "ground_truth": "add sichuan pepper corn starch chives and sesame oil",
+      "predicted": "Drizzle sesame oil over the dish and stir gently to combine all ingredients."
+    }
+  },
+  "vq8C5DTfOKc": {
+    "0": {
+      "ground_truth": "carefully cut the salmon flesh into long strips without cutting the outer skin of the fish",
+      "predicted": "Slice the carrot into even pieces using a sharp knife, keeping your fingers curled back for safety."
+    },
+    "1": {
+      "ground_truth": "make a cut in the center and take along till the one end of the meat holding the strips",
+      "predicted": "Slice the carrot into even pieces using a sharp knife, maintaining a steady hand for uniform cuts."
+    },
+    "2": {
+      "ground_truth": "then start cutting along till the other end holding the strips",
+      "predicted": "Slice the salmon into even pieces using a sharp knife."
+    },
+    "3": {
+      "ground_truth": "spread out the pieces",
+      "predicted": "Carefully separate the salmon fillet from the skin using a sharp knife, ensuring clean cuts."
+    }
+  },
+  "zljhtdoqpv0": {
+    "0": {
+      "ground_truth": "add salt and garlic powder seasoning black pepper powder to the flour and mix well",
+      "predicted": "Add flour to a bowl, then mix in salt and pepper."
+    },
+    "1": {
+      "ground_truth": "cut calamari into thick rings",
+      "predicted": "Slice the squid into even rings on a cutting board using a sharp knife."
+    },
+    "2": {
+      "ground_truth": "drop the cut calamari in the flour and mix well to coat the calamari as much as possible",
+      "predicted": "Coat the calamari rings evenly in the flour mixture before placing them on a plate."
+    },
+    "3": {
+      "ground_truth": "take the coated calamari out of the flour and put them on a plate",
+      "predicted": "Coat the calamari rings evenly with flour from the bowl before placing them on a plate."
+    },
+    "4": {
+      "ground_truth": "repeat the same procedure for the tentacles also coat them with flour and keep aside",
+      "predicted": "Coat the calamari rings evenly in the seasoned flour mixture."
+    },
+    "5": {
+      "ground_truth": "heat 2 cups of oil in a pan",
+      "predicted": "Place the saucepan on the stove and turn on the heat to start heating the oil."
+    },
+    "6": {
+      "ground_truth": "put the coated calamari and tentacles in to the hot oil and fry",
+      "predicted": "Fry the battered rings in hot oil until golden brown, then remove and drain on paper towels."
+    },
+    "7": {
+      "ground_truth": "remove the fried calamari and place them on a paper",
+      "predicted": "Use tongs to carefully remove the fried calamari from the hot oil and place them onto a paper towel-lined plate to drain excess oil."
+    },
+    "8": {
+      "ground_truth": "plate the fried calamari with tabasco sauce lemon slices and lettuce leaves and serve",
+      "predicted": "Arrange the fried calamari rings around a dipping sauce bowl on a bed of lettuce for serving."
+    }
+  },
+  "ysRLGUndzgg": {
+    "0": {
+      "ground_truth": "add carrots onions bell peppers and cabbage to the pot and stir",
+      "predicted": "Add the sliced vegetables into the pot of boiling water."
+    },
+    "1": {
+      "ground_truth": "add a pinch of salt and vinegar and stir",
+      "predicted": "Add salt and vinegar to the pot of vegetables, stirring well to combine."
+    },
+    "2": {
+      "ground_truth": "add noodles and vegetable broth and stir",
+      "predicted": "Add noodles and pour vegetable broth or stock over the vegetables in the pot."
+    },
+    "3": {
+      "ground_truth": "add minced garlic and ginger soy sauce hot sauce sweet and sour sauce and stir",
+      "predicted": "Add minced ginger and garlic to the pot, pour in soy sauce, then add sweet and sour sauce, stirring well to combine."
+    },
+    "4": {
+      "ground_truth": "add sesame seed oil and cover",
+      "predicted": "Add sesame seed oil to the pot, stir well, and cover with a lid."
+    },
+    "5": {
+      "ground_truth": "when the soup boils add arrow root powdera and stir",
+      "predicted": "Stir in arrowroot powder to thicken the sauce, ensuring it is well combined."
+    },
+    "6": {
+      "ground_truth": "add tofu to the soup",
+      "predicted": "Add the tofu to the pot and stir well to combine."
+    },
+    "7": {
+      "ground_truth": "ladle soup into the bowl and top with green onion",
+      "predicted": "Pour the cooked mixture into a bowl and garnish with chopped green onions."
+    }
+  },
+  "QUt050AXQMw": {
+    "0": {
+      "ground_truth": "cut the onions into thin slices",
+      "predicted": "Slice the onion into even rings and prepare to cook them on the stove."
+    },
+    "1": {
+      "ground_truth": "add butter to hot pan little veggie oil 1  tbsp brown sugar and place onion slices on pan to caramelize",
+      "predicted": "Heat oil in a pan, then add butter and let it melt completely."
+    },
+    "2": {
+      "ground_truth": "add wine to the pan to cover onions and wrap pan with aluminium foil and let cook 5-6 min",
+      "predicted": "Pour 60ml of mulled wine over the onions in the pan and let them simmer."
+    },
+    "3": {
+      "ground_truth": "oil the sausages and place them on a griddle pan",
+      "predicted": "Heat a pan and then place the sausages on the grill to cook."
+    },
+    "4": {
+      "ground_truth": "add little thyme and grated nutmeg",
+      "predicted": "Simmer the onions with herbs and spices until they are caramelized and tender."
+    },
+    "5": {
+      "ground_truth": "grate little orange zest into the pan",
+      "predicted": "Grate the orange zest over the simmering dish to enhance its flavor."
+    },
+    "6": {
+      "ground_truth": "slice open the buns and place the sausages between them",
+      "predicted": "Slice the baguette, then proceed to cook the ingredients on the stove while stirring occasionally."
+    },
+    "7": {
+      "ground_truth": "now put the caramelized onions between the buns squeeze mustard over it to serve",
+      "predicted": "Drizzle mustard over the sausages topped with caramelized onions in the buns."
+    }
+  },
+  "r9AtdDfDVmo": {
+    "0": {
+      "ground_truth": "slice the pork into thin pieces",
+      "predicted": "Slice the pork belly into even strips using a sharp knife on a cutting board."
+    },
+    "1": {
+      "ground_truth": "chop the garlic thai chili green onion into small pieces and add to a bowl",
+      "predicted": "Slice the cucumber and jalapeño, fill the baguette with cooked meat and vegetables, and drizzle with sauce before serving."
+    },
+    "2": {
+      "ground_truth": "add sugar black pepper fish sauce and coconut water to the bowl",
+      "predicted": "Drizzle sriracha sauce over the prepared sandwich filled with vegetables and herbs."
+    },
+    "3": {
+      "ground_truth": "slice the cucumber and jalapeno into thin pieces",
+      "predicted": "Chop the garlic and green onions, then combine them in a bowl."
+    },
+    "4": {
+      "ground_truth": "add the pork to a pan of hot oil",
+      "predicted": "Combine chopped green onions, garlic, and seasonings in a bowl, then mix thoroughly."
+    },
+    "5": {
+      "ground_truth": "remove the pork from the pan and place on paper towel",
+      "predicted": "Slice the cucumber into even pieces on the cutting board."
+    },
+    "6": {
+      "ground_truth": "add the pork back into the hot oil",
+      "predicted": "Stir the contents of the pot thoroughly using a pair of tongs."
+    },
+    "7": {
+      "ground_truth": "cut the bread lengthwise with a knife",
+      "predicted": "Remove the cooked pieces from the pot using a slotted spoon and place them on a paper towel-lined plate to drain excess oil."
+    },
+    "8": {
+      "ground_truth": "remove the pork from the hot oil",
+      "predicted": "Fry the seasoned pieces in hot oil until golden brown, then remove and drain on paper towels."
+    },
+    "9": {
+      "ground_truth": "add the pork to the bowl with the dressing",
+      "predicted": "Slice the baguette into even pieces using a sharp knife on a cutting board."
+    },
+    "10": {
+      "ground_truth": "add mayonnaise maggi sauce cucumber pork pickled radish and carrot jalapeno chicory and cilantro to the bread",
+      "predicted": "Use a slotted spoon to transfer the fried pieces onto a paper towel-lined tray to drain excess oil."
+    },
+    "11": {
+      "ground_truth": "add sriracha sauce to the sandwich",
+      "predicted": "Mix the ingredients in a bowl thoroughly, then taste to adjust seasoning as needed."
+    }
+  },
+  "qRSZEN6g8jY": {
+    "0": {
+      "ground_truth": "add soy sauce sugar sake rice wine brown ginger and garlic into a large pot",
+      "predicted": "Pour the sauce into a pot and bring it to a simmer."
+    },
+    "1": {
+      "ground_truth": "add bonito flakes seaweed and green onion to the pot and boil",
+      "predicted": "Place the noodles into the boiling water using a strainer basket and let them cook."
+    },
+    "2": {
+      "ground_truth": "roll a piece of pork and tie it closed",
+      "predicted": "Use a ladle to carefully transfer the soup from the pot into a bowl."
+    },
+    "3": {
+      "ground_truth": "add oil to a pan over heat",
+      "predicted": "Pour the cooked noodles into the bowl of broth and serve immediately."
+    },
+    "4": {
+      "ground_truth": "add the pork to the pan and turn it",
+      "predicted": "Place the boiled egg, greens, and sliced meat on top of the ramen in the bowl."
+    },
+    "5": {
+      "ground_truth": "add water to the pan and boil the pork",
+      "predicted": "Add slices of bacon and a piece of kombu to the pot with broth and miso paste."
+    },
+    "6": {
+      "ground_truth": "cut the pork into small slices with a knife",
+      "predicted": "Wrap the pork tightly with string to prepare it for roasting."
+    },
+    "7": {
+      "ground_truth": "add chicken seaweed bonito flakes dried shrimp dried scallops sliced ginger and chicken feet to a pot",
+      "predicted": "Pour a small amount of oil into a heated wok, swirling it around to coat the surface evenly."
+    },
+    "8": {
+      "ground_truth": "add water to the pot and boil for three hours",
+      "predicted": "Place the seasoned meat into a hot pan and sear it on all sides until golden brown."
+    },
+    "9": {
+      "ground_truth": "separate the ramen noodles by hand",
+      "predicted": "Boil the lobster tail in water for 1 hour."
+    },
+    "10": {
+      "ground_truth": "drop the ramen noodles into boiling water",
+      "predicted": "Slice the boiled meat roll into even pieces using a sharp knife."
+    },
+    "11": {
+      "ground_truth": "add chicken broth and soy sauce into a bowl",
+      "predicted": "Place the chicken bones, dried seaweed, dried fish, and dried shrimp into a pot to prepare the broth."
+    },
+    "12": {
+      "ground_truth": "add the ramen noodles into the bowl",
+      "predicted": "Boil the ingredients in water for 3 hours until the broth is rich and flavorful."
+    },
+    "13": {
+      "ground_truth": "add an egg two pieces of pork and green onions to the bowl",
+      "predicted": "Gently separate and loosen the noodles with your gloved hands to ensure they are evenly spread out."
+    }
+  },
+  "o8HaMr9E8J8": {
+    "0": {
+      "ground_truth": "chop the cabbage",
+      "predicted": "Slice the cabbage into thin shreds using a sharp knife."
+    },
+    "1": {
+      "ground_truth": "pour salt on the cabbage and mix",
+      "predicted": "Shred the cabbage, place it in a large bowl, and mix it thoroughly with salt."
+    },
+    "2": {
+      "ground_truth": "press the cabbage into a container",
+      "predicted": "Transfer the shredded cabbage into a large bowl and gently press it down with your hands."
+    },
+    "3": {
+      "ground_truth": "mix salt and water and pour on top of the cabbage",
+      "predicted": "Pour the measured water into the container of shredded cabbage."
+    },
+    "4": {
+      "ground_truth": "cover the cabbage with cheese cloth and weigh down",
+      "predicted": "Place a cheesecloth over the shredded cabbage in a container, press it down firmly, and secure it with a weight on top."
+    }
+  },
+  "V53XmPeyjIU": {
+    "0": {
+      "ground_truth": "combine salt butter milk and hot sauce in a bowl",
+      "predicted": "Combine the buttermilk, salt, and hot sauce in a bowl to create a marinade."
+    },
+    "1": {
+      "ground_truth": "place chicken in a small bowl and pour brine over chicken and freeze it for 1 hour",
+      "predicted": "Pour the marinade over the chicken pieces in a bowl until they are fully submerged."
+    },
+    "2": {
+      "ground_truth": "pour off the brine and rinse chicken off thoroughly and shake off excess water",
+      "predicted": "Remove the chicken from the bowl, discard the liquid, and rinse each piece under running water."
+    },
+    "3": {
+      "ground_truth": "place chicken on a plate or tray and season generously with mixed spices",
+      "predicted": "Season the chicken pieces with your preferred spice mix and arrange them on a foil-lined baking sheet."
+    },
+    "4": {
+      "ground_truth": "season the flour with salt pepper and celery salt",
+      "predicted": "Add spices to the flour in the mixing bowl."
+    },
+    "5": {
+      "ground_truth": "coat the chicken pieces in the flour",
+      "predicted": "Coat the seasoned chicken pieces in flour, ensuring they are fully covered, then place them on a wire rack to rest."
+    },
+    "6": {
+      "ground_truth": "place chicken in hot oil and fry until golden brown",
+      "predicted": "Fry the chicken at 325 degrees until golden brown and crispy."
+    },
+    "7": {
+      "ground_truth": "fry dark meats together and white meats together",
+      "predicted": "Place the fried chicken pieces into the air fryer basket using tongs."
+    }
+  },
+  "PTUxCvCz8Bc": {
+    "0": {
+      "ground_truth": "mix flour pepper garlic powder salt and paprika in a bowl",
+      "predicted": "Combine flour, garlic powder, salt, and pepper in a bowl, then mix thoroughly."
+    },
+    "1": {
+      "ground_truth": "beat an egg and mix with some milk",
+      "predicted": "Crack an egg into a bowl and whisk it until the yolk and white are fully combined."
+    },
+    "2": {
+      "ground_truth": "coat the chicken wings with both mixture",
+      "predicted": "Dip the chicken wing into the egg mixture, then coat it thoroughly with flour."
+    },
+    "3": {
+      "ground_truth": "fry the chicken wings in deep oil",
+      "predicted": "Fry the battered chicken pieces in hot oil until they are golden brown and crispy, then remove them from the pan."
+    },
+    "4": {
+      "ground_truth": "drain the chicken wings with paper towel and serve",
+      "predicted": "Sprinkle salt evenly over the fried chicken wings."
+    }
+  },
+  "HdQzPLk_KiA": {
+    "0": {
+      "ground_truth": "put chickpeas parsley chopped onion chili powder ground cumin in food processor",
+      "predicted": "Chop the vegetables and add them to the bowl, then mix thoroughly."
+    },
+    "1": {
+      "ground_truth": "squeeze some lime juice to it and add some olive oil",
+      "predicted": "Chop the herbs and vegetables, then squeeze lime juice over them before blending."
+    },
+    "2": {
+      "ground_truth": "add some flour and blend everything",
+      "predicted": "Blend the ingredients in the food processor until smooth."
+    },
+    "3": {
+      "ground_truth": "add ground pepper salt and blend again",
+      "predicted": "Use the immersion blender to thoroughly mix the ingredients in the bowl until smooth."
+    },
+    "4": {
+      "ground_truth": "shape the mixture into balls",
+      "predicted": "Blend the ingredients in the food processor until they are finely chopped and well combined."
+    },
+    "5": {
+      "ground_truth": "place the falafel in a pan",
+      "predicted": "Place the shaped mixture into a heated pan with oil, ensuring they are evenly spaced for frying."
+    }
+  },
+  "wR8Ybxpnbwc": {
+    "0": {
+      "ground_truth": "add sushi rice to a pot and pour water",
+      "predicted": "Pour the measured rice into the pot, then add water using the measuring cup."
+    },
+    "1": {
+      "ground_truth": "heat the pot on a stove until the water boils",
+      "predicted": "Mix the mayonnaise and ketchup together in a bowl until well combined."
+    },
+    "2": {
+      "ground_truth": "mince the tuna and add it to a bowl",
+      "predicted": "Turn on the stove and bring the water to a boil in the pot."
+    },
+    "3": {
+      "ground_truth": "add sriracha sauce to the bowl",
+      "predicted": "Slice the tuna into even pieces using a sharp knife."
+    },
+    "4": {
+      "ground_truth": "add sesame oil and thinly sliced scallions to the bowl and mix",
+      "predicted": "Add a generous amount of hot sauce to the minced meat in the bowl."
+    },
+    "5": {
+      "ground_truth": "spread the cooked rice on the sheet of nori shiny side down",
+      "predicted": "Add soy sauce and chopped herbs to the minced meat, then mix thoroughly."
+    },
+    "6": {
+      "ground_truth": "sprinkle sesame seeds over the rice",
+      "predicted": "Gently spread a small amount of rice evenly over the nori sheet on the bamboo mat."
+    },
+    "7": {
+      "ground_truth": "flip the nori over and add the tuna mixture to the other side",
+      "predicted": "Sprinkle sesame seeds evenly over the layer of rice on the nori sheet."
+    },
+    "8": {
+      "ground_truth": "roll the bamboo sheet over the nori while adding pressure",
+      "predicted": "Spread a layer of rice on the nori, flip it over, and add the filling ingredients before rolling."
+    },
+    "9": {
+      "ground_truth": "cut the roll in even slices",
+      "predicted": "Roll the sushi tightly using the bamboo mat, applying gentle pressure to shape it evenly."
+    },
+    "10": {
+      "ground_truth": "mix japanese mayo with sriracha sauce and add to the sushi pieces",
+      "predicted": "Slice the sushi roll evenly using a sharp knife, applying gentle pressure to avoid crushing it."
+    }
+  },
+  "WqfselLH4MQ": {
+    "0": {
+      "ground_truth": "cut chicken wings and drummet",
+      "predicted": "Slice the chicken breast into thin strips on a cutting board."
+    },
+    "1": {
+      "ground_truth": "place celery and carrot sticks into water",
+      "predicted": "Arrange the chicken wings neatly on the cutting board for preparation."
+    },
+    "2": {
+      "ground_truth": "add baking powder black pepper and salt and mix",
+      "predicted": "Mix the chicken pieces thoroughly with the added seasonings in the bowl."
+    },
+    "3": {
+      "ground_truth": "heat cooking oil and fry the chicken wings",
+      "predicted": "Fry the seasoned chicken pieces in hot oil until golden brown and crispy, turning occasionally for even cooking."
+    },
+    "4": {
+      "ground_truth": "add butter hot sauce vinegar cayenne and tomato ketchup",
+      "predicted": "Melt butter in a heated pan and stir in the spices until well combined."
+    },
+    "5": {
+      "ground_truth": "coat the wings with sauce",
+      "predicted": "Stir-fry the chicken pieces in the sauce over medium heat until they are cooked through and evenly coated."
+    }
+  },
+  "NTyhMGmuWik": {
+    "0": {
+      "ground_truth": "in pan take 1 pound ground beef add 1 finely chopped onions 2 cloves finely minced garlic cook 5 mins",
+      "predicted": "Chop the onion, add it to the pan with ground beef, and cook until the meat is browned."
+    },
+    "1": {
+      "ground_truth": "now add 2 tbls of chili powder 1 tbls of cumin powder and cook for 3 minutes",
+      "predicted": "Add tomato sauce and spices to the browned meat, then stir thoroughly to combine."
+    },
+    "2": {
+      "ground_truth": "add 1 cup of water and 6 ounce of canned tomato paste blend it well and season it with salt",
+      "predicted": "Add seasoning and tomato sauce to the browned meat, then stir well to combine."
+    },
+    "3": {
+      "ground_truth": "add 1 tbls prepared yellow mustard 1 tbls worcestershire sauce 2 tsp brown sugar mix simmer 5 minutes",
+      "predicted": "Add a can of corn to the simmering sauce and stir well to combine."
+    },
+    "4": {
+      "ground_truth": "steam frankfurters for 4 minutes in same steamer place the hot dog buns and steam for a couple of minutes",
+      "predicted": "Place the buns in the steamer over the simmering sauce to warm them."
+    },
+    "5": {
+      "ground_truth": "place frankfurter in middle of bun cover sausage with chili prepared earlier top with mustard sauce garnish with chopped onions",
+      "predicted": "Boil the hot dogs, place one in a bun, top with chili, and drizzle with mustard."
+    }
+  },
+  "Re46osq_NkI": {
+    "0": {
+      "ground_truth": "mince cabbage and chop some green onions",
+      "predicted": "Chop the cabbage finely, then slice the green onions."
+    },
+    "1": {
+      "ground_truth": "add chopped green onions cabbage and ground pork to a large bowl",
+      "predicted": "Place the rack of ribs into the mixing bowl."
+    },
+    "2": {
+      "ground_truth": "add soy sauce sesame oil and salt and mix together",
+      "predicted": "Pour the green liquid from the measuring cup into the bowl of ground meat."
+    },
+    "3": {
+      "ground_truth": "add chopped carrots and shiitake mushrooms and mix",
+      "predicted": "Add the chopped vegetables to the bowl and mix thoroughly."
+    },
+    "4": {
+      "ground_truth": "place 1 tbsp of the filling in the center of a pot sticker wrapper",
+      "predicted": "Crack the eggs into the mixing bowl."
+    },
+    "5": {
+      "ground_truth": "place the pot sticker wrapper on the dumpling and seal the edges with water",
+      "predicted": "Place a spoonful of filling onto the dumpling wrapper, fold it using the mold, and press firmly to seal."
+    },
+    "6": {
+      "ground_truth": "heat a pan and spread vegetable oil on the surface",
+      "predicted": "Pour a small amount of oil into a heated pan on the stove."
+    },
+    "7": {
+      "ground_truth": "lay the pot stickers and cook both the sides until they are golden brown",
+      "predicted": "Place the dumplings in the heated pan and cook until they are golden brown on one side."
+    },
+    "8": {
+      "ground_truth": "once they are browned pour some water and cover with a lid and cook",
+      "predicted": "Cover the pan with a lid after adding water to steam the dumplings."
+    }
+  },
+  "NK2tAXi3cT4": {
+    "0": {
+      "ground_truth": "cook ground beef in a pan and cut tortillas into squares",
+      "predicted": "Cook the ground meat in a pan, then slice tortillas into strips using a pizza cutter."
+    },
+    "1": {
+      "ground_truth": "drain the extra water from the beef",
+      "predicted": "Brown the ground meat in a pan, stirring occasionally, until fully cooked and no pink remains."
+    },
+    "2": {
+      "ground_truth": "add condensed tomato soup salsa water and the chopped tortillas to the cooked beef",
+      "predicted": "Pour the tomato soup over the cooked ground meat in the slow cooker, then add the chopped pasta pieces and stir gently."
+    },
+    "3": {
+      "ground_truth": "simmer the dish",
+      "predicted": "Set the slow cooker to low and stir the tortilla strips and sauce mixture occasionally until fully cooked."
+    },
+    "4": {
+      "ground_truth": "sprinkle cheese on the dish",
+      "predicted": "Sprinkle shredded cheese evenly over the dish in the slow cooker."
+    }
+  },
+  "9F5FvWheSrg": {
+    "0": {
+      "ground_truth": "add tomato onion green chili and rice to a pan",
+      "predicted": "In a saucepan, add 3 chopped cubes of tomato, 1 sliced onion, 1 green chili, and 1 tablespoon of rice."
+    },
+    "1": {
+      "ground_truth": "add water to the pan",
+      "predicted": "Add 1 cup of water to the pan on the stove."
+    },
+    "2": {
+      "ground_truth": "boil the ingredients and then turn down the heat",
+      "predicted": "Boil the ingredients until the tomatoes soften and the rice grains are cooked, then turn off the gas once it comes to a boil."
+    },
+    "3": {
+      "ground_truth": "strain the ingredients",
+      "predicted": "Strain the ingredients, let them cool for a couple of minutes, then transfer them to the mixer."
+    },
+    "4": {
+      "ground_truth": "blend the ingredients",
+      "predicted": "Blend the chopped ingredients in the mixer until smooth."
+    },
+    "5": {
+      "ground_truth": "add the water to the mixture and strain",
+      "predicted": "Pour the mixture through a thick mesh strainer into a pot, adding water as needed."
+    },
+    "6": {
+      "ground_truth": "boil the soup",
+      "predicted": "Bring the strained mixture to a rapid boil on the stove."
+    }
+  },
+  "7-FatJyHj_g": {
+    "0": {
+      "ground_truth": "wash the cabbage",
+      "predicted": "Mix the chopped cabbage and onions thoroughly in a bowl using your hands."
+    },
+    "1": {
+      "ground_truth": "mix the lettuce with salt in a bowl",
+      "predicted": "Mix the chopped cabbage thoroughly in a bowl."
+    },
+    "2": {
+      "ground_truth": "rinse the cabbage",
+      "predicted": "Mix the chopped cabbage thoroughly in a bowl using your hands."
+    },
+    "3": {
+      "ground_truth": "add fish sauce ginger garlic paste sugar onion carrot and red pepper flakes to the lettuce and mix together",
+      "predicted": "Mix chopped cabbage, onions, carrots, and seasoning thoroughly by hand in a large bowl."
+    },
+    "4": {
+      "ground_truth": "add red flakes and salt",
+      "predicted": "Mix the cabbage and carrots thoroughly with the added spices and salt until well combined."
+    },
+    "5": {
+      "ground_truth": "transfer to an airtight container and cover with a lid",
+      "predicted": "Transfer the seasoned mixture from the bowl into a container, pressing it down firmly to ensure it is tightly packed."
+    }
+  },
+  "4K9h7ojJYkc": {
+    "0": {
+      "ground_truth": "mix yeast and sugar in a bowl of warm water",
+      "predicted": "Measure out a spoonful of baking powder and add it to your mixing bowl."
+    },
+    "1": {
+      "ground_truth": "mix flour onion seed salt and baking powder",
+      "predicted": "Pour the measured ingredient from the small metal cup into the mixing bowl."
+    },
+    "2": {
+      "ground_truth": "add the yeast and yogurt to the flour",
+      "predicted": "Combine flour and butter in a bowl, then add yeast mixture and pour in oil."
+    },
+    "3": {
+      "ground_truth": "knead the dough by hand",
+      "predicted": "Knead the dough thoroughly in the bowl until it becomes smooth and elastic."
+    },
+    "4": {
+      "ground_truth": "place pistachio and raisins in a blender and mix",
+      "predicted": "Pour the measured liquid into the blender cup."
+    },
+    "5": {
+      "ground_truth": "take a pinch of the powder and place at the center of one of the dough balls",
+      "predicted": "Pour the ground mixture into a small bowl, then carefully place a portion onto the center of the dough disc."
+    },
+    "6": {
+      "ground_truth": "fold the dough around the powder",
+      "predicted": "Gently fold and seal the edges of the dough around the filling, then press it flat on a floured surface."
+    },
+    "7": {
+      "ground_truth": "roll the dough and place on a hot pan",
+      "predicted": "Roll out the dough, flatten it with your hands, and then place it on the grill."
+    },
+    "8": {
+      "ground_truth": "place the naan in the oven",
+      "predicted": "Place the dough on the grill rack and let it cook until it puffs up slightly."
+    }
+  },
+  "cCWDR-jUv9U": {
+    "0": {
+      "ground_truth": "add lard into a pot",
+      "predicted": "Stir the melting butter in the pot over medium heat until fully melted and evenly distributed."
+    },
+    "1": {
+      "ground_truth": "add chopped onions to the pot",
+      "predicted": "Add chopped onions to the pot with oil over medium heat."
+    },
+    "2": {
+      "ground_truth": "fry the onions in the pot and stir",
+      "predicted": "Sauté the chopped onions in a pot over medium heat until they become translucent."
+    },
+    "3": {
+      "ground_truth": "add pork to the pot",
+      "predicted": "Add the chopped meat to the pot with sautéed onions and stir to combine."
+    },
+    "4": {
+      "ground_truth": "add caraway seeds and paprika to the pot and stir",
+      "predicted": "Stir the diced meat and onions in the pot over medium heat until the meat is browned."
+    },
+    "5": {
+      "ground_truth": "pour water in to the pot and cover",
+      "predicted": "Simmer the diced ingredients in the pot over medium heat until they are tender and cooked through."
+    },
+    "6": {
+      "ground_truth": "add flour and water to the pot and stir",
+      "predicted": "Stir the flour into the cooked mushrooms until well combined and a thick mixture forms."
+    }
+  },
+  "EkuM7L31bMQ": {
+    "0": {
+      "ground_truth": "cut tofu into square pieces",
+      "predicted": "Cut the tofu into square pieces using a sharp knife."
+    },
+    "1": {
+      "ground_truth": "put cornstarch in a small bowl and mix with water",
+      "predicted": "Mix cornstarch with 3 tablespoons of water in a small bowl until smooth."
+    },
+    "2": {
+      "ground_truth": "empty a sachet of mapo tofu paste into a bowl",
+      "predicted": "Squeeze the Mapo Tofu paste into a small bowl."
+    },
+    "3": {
+      "ground_truth": "stir fry ground pork and the paste",
+      "predicted": "Add Mapo Tofu paste to the cooked ground pork and stir well."
+    },
+    "4": {
+      "ground_truth": "add water tofu cubes sprinkle and salt and cover",
+      "predicted": "Sprinkle 1/2 teaspoon of salt over the tofu and sauce mixture."
+    },
+    "5": {
+      "ground_truth": "add cornstarch and stir gently",
+      "predicted": "Add cornstarch to the tofu and sauce, then gently stir until thickened and ready to serve."
+    }
+  },
+  "TMpt-41UTOk": {
+    "0": {
+      "ground_truth": "combine the meat with half of the onion salt bay leaf dried mushrooms peppercorns and water",
+      "predicted": "Season the meat with salt and pepper, place it in a pot, add sliced onions, and cover with a lid."
+    },
+    "1": {
+      "ground_truth": "cook for around an hour and let it cool",
+      "predicted": "Roll out the dough evenly using a rolling pin until it reaches the desired thickness."
+    },
+    "2": {
+      "ground_truth": "grind the cooked meat mixture in a food processor",
+      "predicted": "Use a glass to cut circles out of the rolled dough."
+    },
+    "3": {
+      "ground_truth": "chop the other half of the onion and cook it with a little bit of oil",
+      "predicted": "Place a spoonful of filling onto a dough circle, fold it in half, and pinch the edges to seal."
+    },
+    "4": {
+      "ground_truth": "transfer the meat in to a bowl and add the onion",
+      "predicted": "Stir the boiling water with a wooden spoon to dissolve the salt."
+    },
+    "5": {
+      "ground_truth": "season with salt and pepper and mix very well",
+      "predicted": "Fry the dumplings in a pan until they are golden brown on each side."
+    },
+    "6": {
+      "ground_truth": "in the food processor add flour and salt",
+      "predicted": "Skim off any foam from the surface of the simmering broth using a spoon."
+    },
+    "7": {
+      "ground_truth": "pulse few times and then add the water",
+      "predicted": "Cut the chicken into pieces and feed them through a meat grinder into a bowl."
+    },
+    "8": {
+      "ground_truth": "let the food processor process the dough for another minute",
+      "predicted": "Sauté the chopped onions in the heated oil until they become translucent."
+    },
+    "9": {
+      "ground_truth": "divide the dough in 2 portions",
+      "predicted": "Transfer the sautéed onions from the pan into the bowl of minced meat and mix well."
+    },
+    "10": {
+      "ground_truth": "keep rolling until you get 1 to 2 mm thick dough",
+      "predicted": "Mix the grated cheese into the minced meat thoroughly using a spoon until well combined."
+    },
+    "11": {
+      "ground_truth": "with a glass or large cookie cutter cut circles and take the remaining dough",
+      "predicted": "Pour flour into the food processor and add a measured amount of salt."
+    },
+    "12": {
+      "ground_truth": "wrap the meat mixture in the small dough portions",
+      "predicted": "Secure the lid on the food processor and pour the contents of the cup into the feed tube."
+    }
+  }
+}

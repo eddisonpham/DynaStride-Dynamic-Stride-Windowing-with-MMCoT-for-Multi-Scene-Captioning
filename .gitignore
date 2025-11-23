@@ -19,8 +19,7 @@ env
 **/.ipynb_checkpoints/
 
 # Output directories
-outputs/
-SemanticResults/
-offload/
+# outputs/
+# SemanticResults/
 
 data/YouCookII/raw_videos/
