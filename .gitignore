@@ -10,3 +10,16 @@ cot_env/
 *.ckpt
 *.pkl
 *.npy
+
+.venv
+venv
+.env 
+env
+**/__pycache__/
+**/.ipynb_checkpoints/
+
+# Output directories
+# outputs/
+# SemanticResults/
+
+data/YouCookII/raw_videos/
