@@ -16,8 +16,7 @@ def sample_frames(frame_folder: str, stride: int = 5, limit: int = 10) -> List[s
         List of frame file paths
     """
     jpgs = sorted(
-        glob.glob(os.path.join(frame_folder, "*.jpg")) +
-        glob.glob(os.path.join(frame_folder, "*.jpeg"))
+        glob.glob(os.path.join(frame_folder, "*.jpg")) 
     )
     if not jpgs:
         return []
