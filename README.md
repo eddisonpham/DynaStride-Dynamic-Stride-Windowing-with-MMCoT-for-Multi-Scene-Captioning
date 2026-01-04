@@ -2,9 +2,7 @@
 
 **Paper**: [arXiv:2510.23907](https://arxiv.org/abs/2510.23907)
 
-Accepted for oral presentation:
-@ [NeurIPS 7HVU 2025](https://holistic-video-understanding.github.io/workshops/neurips2025.html)
-@ [AAAI AI4ED 2026](https://ai4ed.cc/workshops/aaai2026)
+Accepted for oral presentation @ [NeurIPS 7HVU 2025](https://holistic-video-understanding.github.io/workshops/neurips2025.html) and [AAAI AI4ED 2026](https://ai4ed.cc/workshops/aaai2026)
 
 ## Abstract Summary
 
